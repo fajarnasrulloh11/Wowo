@@ -21,7 +21,7 @@ export const projects: Project[] = [
     category: "Food Ordering Platform",
     description:
       "A modern ordering platform that helps restaurants manage orders, payments, and daily operations — all from one dashboard.",
-    image: "/makanan.jfif",
+    image: "/ll.png",
     technologies: ["Next.js", "Django", "PostgreSQL", "Docker"],
     challenge:
       "The client needed to replace a fragmented manual process for managing restaurant orders, inventory, and payments across multiple branches.",
