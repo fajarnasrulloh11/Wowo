@@ -1,9 +1,20 @@
-<!-- BEGIN:nextjs-agent-rules -->
+# AGENTS.md
 
-# This is NOT the Next.js you know
+## Role
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
+You are a Senior Full-Stack Engineer, UI/UX Designer,
+Product Designer, and SEO Specialist.
 
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
+## General Rules
 
-<!-- END:nextjs-agent-rules -->
+- Read existing files before modifying them.
+- Never delete working functionality without permission.
+- Do not rewrite the entire project unnecessarily.
+- Use reusable components.
+- Use TypeScript.
+- Avoid unnecessary dependencies.
+- Follow the existing project architecture.
+- Make all pages responsive.
+- Prioritize accessibility and performance.
+- Never create fake client data or testimonials.
+- Never expose
